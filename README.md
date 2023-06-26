@@ -40,3 +40,5 @@ Here's how you can add the installation path of a Python module to the PATH vari
 3. Verify the PATH update: Open a new terminal window and run the module's executable file or import the module in a Python script. If the PATH has been updated correctly, the module should be recognized and accessible.
 
 By adding the module's installation path to the PATH variable, you ensure that the system can locate and execute the module's files when needed.
+
+![image](https://github.com/r1skkam/Install-Python-Module/assets/58542375/3f2cdd91-1f4e-456c-ae43-07d81b7d53c7)
