@@ -42,3 +42,6 @@ Here's how you can add the installation path of a Python module to the PATH vari
 By adding the module's installation path to the PATH variable, you ensure that the system can locate and execute the module's files when needed.
 
 ![image](https://github.com/r1skkam/Install-Python-Module/assets/58542375/3f2cdd91-1f4e-456c-ae43-07d81b7d53c7)
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/58542375/248603669-3f2cdd91-1f4e-456c-ae43-07d81b7d53c7.png
+
